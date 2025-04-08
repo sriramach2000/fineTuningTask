@@ -1,4 +1,3 @@
-# fineTuningTask
 # Production-Level Fine-Tuning Strategy for Code Models on AWS SageMaker
 
 ## Detailed Implementation Guide
